@@ -92,4 +92,4 @@ python scripts/p2m.py run "谱子.pdf" --sheets 1-3
 
 ## 许可证
 
-未指定。若要开源建议补一个 `LICENSE`（如 MIT）。
+[MIT](LICENSE) © 2026 zyuanlbj

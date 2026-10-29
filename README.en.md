@@ -98,4 +98,4 @@ More detail in `references/setup.md` and `SKILL.md`.
 
 ## License
 
-Not specified. If you plan to open-source this, add a `LICENSE` file (MIT is a reasonable default).
+[MIT](LICENSE) © 2026 zyuanlbj
