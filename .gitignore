@@ -1,0 +1,30 @@
+# 识别引擎（约 163 MB，不放仓库）
+engine/
+_extract/
+_install/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物
+*.musicxml
+*.mxl
+*.mid
+*.omr
+report.md
+lyrics.txt
+visuals/
+work/
+
+# 压缩包
+*.zip
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
